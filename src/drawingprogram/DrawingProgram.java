@@ -9,7 +9,6 @@ package drawingprogram;
 
 /**
  * This is the harness that runs the ITIS 1213 Assignment4 Drawing Program
- * @author clatulip
  */
 public class DrawingProgram {
 

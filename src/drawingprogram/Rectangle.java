@@ -12,7 +12,6 @@ import java.awt.Graphics2D;
 
 /**
  *
- * @author clatulip
  */
 public class Rectangle extends Shape {
     private int startX;

@@ -12,7 +12,6 @@ import java.awt.Graphics2D;
 
 /**
  *
- * @author clatulip
  */
 public class RoundedRect extends Shape {
     private int startX;

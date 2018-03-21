@@ -13,7 +13,6 @@ import java.util.ArrayList;
 /**
  * This model holds everything that the user has added to the canvas, 
  * and keeps track of the current state (i.e. selected color and shape, etc.)
- * @author clatulip, for ITIS 1213 @ UNC Charlotte
  */
 public class DrawingModel {
     // arrays to hold the shapes

@@ -15,7 +15,6 @@ import javax.imageio.ImageIO;
 /**
  * This is a JFrame form that displays a file save dialog box so the user
  * can select a filename and location to save the image as a png file
- * @author clatulip
  */
 public class SaveDialogWindow extends javax.swing.JFrame {
 

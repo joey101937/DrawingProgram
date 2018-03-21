@@ -10,7 +10,6 @@ import java.awt.Color;
 
 /**
  *
- * @author clatulip
  */
 public class DrawingWindow extends javax.swing.JFrame {
 

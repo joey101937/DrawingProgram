@@ -13,7 +13,6 @@ import java.awt.Graphics2D;
 
 /**
  * This is the class for line drawing
- * @author clatulip
  */
 public class Line extends Shape{
     private int startX;
